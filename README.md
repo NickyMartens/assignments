@@ -5,3 +5,4 @@
 
 [assignment week 5](http://localhost:8888/notebooks/Downloads/Assignment_week_5.ipynb)
 
+[assignment week 6](http://localhost:8888/notebooks/Downloads/Assignment_week_6.ipynb#)
