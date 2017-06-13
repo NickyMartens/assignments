@@ -10,6 +10,6 @@
 
 [assignment week 8](http://localhost:8888/notebooks/Downloads/assignment%20week%208.ipynb)
 
-[final python assignment](http://localhost:8888/notebooks/Downloads/progamming/Final_Assignment_Python_1_students.ipynb)
+[final python assignment](https://github.com/NickyMartens/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
 [final R assignment](http://localhost:8888/notebooks/Downloads/progamming/OECD_R_exam.ipynb)
