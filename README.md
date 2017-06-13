@@ -8,7 +8,7 @@
 
 [assignment week 6](https://github.com/NickyMartens/assignments/blob/master/Assignment_week_6.ipynb)
 
-[assignment week 8]()
+[assignment week 8](https://github.com/NickyMartens/assignments/blob/master/assignment%20week%208.ipynb)
 
 [final python assignment](https://github.com/NickyMartens/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
