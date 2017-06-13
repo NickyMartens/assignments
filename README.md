@@ -1,6 +1,6 @@
 
 # assignments
-[assignment week 2](http://localhost:8888/notebooks/Downloads/Assignment_week_2.ipynb)
+[assignment week 2](https://github.com/NickyMartens/assignments/blob/master/assignment%20week%202.ipynb)
 
 [assignment week 4](https://github.com/NickyMartens/assignments/blob/master/Assignment_week_4%20(1).ipynb)
 
