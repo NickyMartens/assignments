@@ -12,4 +12,4 @@
 
 [final python assignment](https://github.com/NickyMartens/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
-[final R assignment](http://localhost:8888/notebooks/Downloads/progamming/OECD_R_exam.ipynb)
+[final R assignment](https://github.com/NickyMartens/assignments/blob/master/OECD_R_exam.ipynb)
